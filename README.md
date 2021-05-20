@@ -35,4 +35,5 @@ The NLL function penalizes correct predictions made with lower probabilities thu
 ## Result
 Test set: Average loss: 0.7530, MNIST Accuracy: 9899/10000 (99%), Sum Accuracy: 7517/10000 (75%)
 
+![Training logs](images/result.png)
 

@@ -1,6 +1,6 @@
 # sum-neural-network
 
-## Tast
+## Task
 Write a neural network that takes 2 inputs:
 
 1.   an image from MNIST dataset, and
